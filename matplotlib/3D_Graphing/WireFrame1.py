@@ -1,3 +1,5 @@
+#Code to visualize wireframe
+#By Samson Oni
 from mpl_toolkits.mplot3d import axes3d
 import matplotlib.pyplot as plt
 

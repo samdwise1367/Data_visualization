@@ -1,3 +1,5 @@
+#Code to show an example of 3D visualisation of bar char
+#By Samson Oni
 from mpl_toolkits.mplot3d import axes3d
 import matplotlib.pyplot as plt
 import numpy as np
